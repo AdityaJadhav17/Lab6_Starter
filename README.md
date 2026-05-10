@@ -4,4 +4,4 @@
 
 **Lab Partner:** None
 
-**GitHub Pages Link:** TODO add deployed link
+**GitHub Pages Link:** [https://adityajadhav17.github.io/Lab6_Starter/]
